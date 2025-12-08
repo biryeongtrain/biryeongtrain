@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 있어보이는 내용
 
-![biryeongtrain's GitHub stats](https://github-readme-stats.vercel.app/api?username=biryeongtrain&show_icons=true&theme=radical)
+![GitHub Card](https://githubcard.com/biryeongtrain.svg)
 
 [![biryeongtrain's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@biryeongtrain&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
