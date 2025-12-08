@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![wakatime](https://wakatime.com/badge/user/1c051069-4220-4fef-82ce-1c7445a59a7a.svg)](https://wakatime.com/@1c051069-4220-4fef-82ce-1c7445a59a7a)
+
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 
 있어보이는 내용
 
 ![GitHub Card](https://githubcard.com/biryeongtrain.svg)
-
-[![biryeongtrain's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@biryeongtrain&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 있어보이지만 하찮은 알갱이
