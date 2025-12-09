@@ -16,7 +16,16 @@ Here are some ideas to get you started:
 -->
 
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```txt
+Java                       2 hrs 36 mins   █████████░░░░░░░░░░░░░░░░   36.38 %
+Other                      1 hr 27 mins    █████░░░░░░░░░░░░░░░░░░░░   20.46 %
+HTML                       1 hr 20 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.87 %
+Objective-C                20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+Java Properties            16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+```
+
+<!--END_SECTION:waka-->
 
 있어보이는 내용
 
