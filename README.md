@@ -18,6 +18,8 @@ Here are some ideas to get you started:
   <!--START_SECTION:waka-->
 
 ```txt
+Total Time: 5 hrs 41 mins
+
 Java                       2 hrs 36 mins   █████████░░░░░░░░░░░░░░░░   36.38 %
 Other                      1 hr 27 mins    █████░░░░░░░░░░░░░░░░░░░░   20.46 %
 HTML                       1 hr 20 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.87 %
