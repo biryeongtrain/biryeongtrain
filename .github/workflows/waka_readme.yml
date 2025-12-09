@@ -1,10 +1,17 @@
-            - name: Waka - Readme
-  # You may pin to the exact commit or the version.
-  # uses: athul/waka-readme@8539bedb8277066fc9fe1b47d1f9b108eb866494
-  uses: athul/waka-readme@v0.3.1
-  with:
-    # GitHub access token with Repo scope
-    GH_TOKEN: ${{ secrets.GH_TOKEN }}
-    # Your Wakatime/Wakapi/Hakatime API Key
-    WAKATIME_API_KEY: ${{ secrets.WAKA_SECRET }}
-          
+name: Waka Readme
+
+on:
+  # for manual workflow trigger
+  workflow_dispatch:
+  schedule:
+    # runs at 12 AM UTC (5:30 AM IST)
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master # this action name
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKA_SECRET }}
