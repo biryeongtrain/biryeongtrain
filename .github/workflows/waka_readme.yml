@@ -16,3 +16,5 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKA_SECRET }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }} 
+          SHOW_TIME: true 
+          SHOW_TOTAL: true 
