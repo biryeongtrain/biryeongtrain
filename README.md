@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ```txt
 Total Time: 1,091 hrs 2 mins
 
-Java                       840 hrs 7 mins  ██████████████████▓░░░░░░   74.68 %
-Other                      33 hrs 56 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+Java                       840 hrs 7 mins  ██████████████████▓░░░░░░   74.64 %
+Other                      34 hrs 29 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
 JSON                       29 hrs 36 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
 Groovy                     27 hrs 36 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
 Gradle                     27 hrs 12 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
