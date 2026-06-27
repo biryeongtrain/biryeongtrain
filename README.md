@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 Total Time: 1,325 hrs 36 mins
 
 Java                       1,003 hrs 15 mins     ██████████████████░░░░░░░   71.98 %
-Other                      68 hrs 14 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+Other                      68 hrs 16 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
 JSON                       38 hrs 13 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
 Groovy                     34 hrs 46 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
 Gradle                     31 hrs 44 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
