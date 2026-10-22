@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 ```txt
 Total Time: 1,331 hrs 56 mins
 
-Java                       1,003 hrs 30 mins     █████████████████▓░░░░░░░   71.07 %
-Other                      80 hrs 2 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
-JSON                       39 hrs 28 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-Groovy                     35 hrs 8 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-Gradle                     31 hrs 44 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Java                       1,003 hrs 30 mins     █████████████████▓░░░░░░░   70.93 %
+Other                      82 hrs 47 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
+JSON                       39 hrs 28 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Groovy                     35 hrs 8 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+Gradle                     31 hrs 44 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
 ```
 
 <!--END_SECTION:waka-->
