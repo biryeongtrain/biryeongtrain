@@ -18,13 +18,13 @@ Here are some ideas to get you started:
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1,381 hrs 44 mins
+Total Time: 1,386 hrs 2 mins
 
-Java                       1,021 hrs 3 mins      █████████████████▒░░░░░░░   69.24 %
-Other                      92 hrs 55 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
-JSON                       42 hrs 55 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-Python                     39 hrs 52 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-Groovy                     35 hrs 9 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+Java                       1,022 hrs 15 mins     █████████████████▒░░░░░░░   69.00 %
+Other                      95 hrs 22 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+JSON                       43 hrs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+Python                     42 hrs 8 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+Markdown                   35 hrs 43 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
 ```
 
 <!--END_SECTION:waka-->
